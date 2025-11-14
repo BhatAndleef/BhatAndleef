@@ -10,17 +10,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BhatAndleef" alt="BhatAndleef" /></a> </p>
 <!-- banner link -->
 <!-- Facebook -->
-<a href="https://www.facebook.com/BhatAndleefI" target="_blank">
+<!-- <a href="https://www.facebook.com/BhatAndleefI" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
-</a>
+</a> -->
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/moeez_mir_" target="_blank">
+<a href="https://www.instagram.com/_bhat__andleeef/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
 </a>
 
 <!-- X (Twitter) -->
-<a href="https://x.com/thypholosion" target="_blank">
+<a href="https://x.com/bhat_andleef" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
 </a>
 
