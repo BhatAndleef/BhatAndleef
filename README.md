@@ -35,13 +35,13 @@
 </a>
 
 
-- 👨‍💻 All of my projects are available at [https://BhatAndleef.netlify.app/](https://BhatAndleef.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://Andleef.netlify.app/](https://andleef.netlify.app/)
 
 - 💬 Ask me about **- Improving UI/UX design skills - Writing better codes - Making Website designs**
 
-- 📫 How to reach me **BhatAndleef2019@gmail.com**
+- 📫 How to reach me **bhatandleef8@gmail.com**
 
-- 📄 Know about my experiences [https://BhatAndleef.netlify.app/](https://BhatAndleef.netlify.app/)
+- 📄 Know about my experiences [https://Andleef.netlify.app/](https://Andleef.netlify.app/)
 
 - ⚡ Fun fact **I once built a full website just to prove a point in a classroom debate—and it worked! Turns out, code speaks louder than words.**
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Funny GIF" height="150" align="right" />
