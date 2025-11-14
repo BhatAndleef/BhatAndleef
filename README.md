@@ -47,10 +47,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Funny GIF" height="150" align="right" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/thypholosion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thypholosion" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mir-moeez-860b5b334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mir-moeez-860b5b334" height="30" width="40" /></a>
+<a href="https://x.com/bhat_andleef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thypholosion" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/mir-moeez-860b5b334](https://www.linkedin.com/in/bhat-andleef-0983aa379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mir-moeez-860b5b334" height="30" width="40" /></a>
 <a href="https://www.facebook.com/BhatAndleefI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/BhatAndleefi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/moeez_mir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/moeez_mir_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_bhat__andleeef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/moeez_mir_" height="30" width="40" /></a>
 </p>
 
 
